@@ -1,4 +1,4 @@
-// TODO: write code here
+// eslint-disable-next-line import/extensions
 import checkHealth from './task.js';
 
 const Petya = { name: 'Петя', health: 90 };

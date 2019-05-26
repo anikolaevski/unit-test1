@@ -1,4 +1,4 @@
-function checkHealth( { name, health }) {
+function checkHealth({ name, health }) {
   let outValue = '';
   if (health > 50) {
     outValue = 'healthy';
